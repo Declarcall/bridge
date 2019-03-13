@@ -7,52 +7,52 @@ powered by Java/Android's URLConnection classes for maximum compatibility and sp
 
 ### Core
 
-1. [Dependency](https://github.com/afollestad/bridge#dependency)
-	1. [Gradle (Java)](https://github.com/afollestad/bridge#gradle-java)
-	2. [Gradle (Android)](https://github.com/afollestad/bridge#gradle-android)
-	2. [Maven](https://github.com/afollestad/bridge#maven)
-2. [Requests](https://github.com/afollestad/bridge#requests)
-	1. [Request Basics](https://github.com/afollestad/bridge#request-basics)
-	2. [Request Headers](https://github.com/afollestad/bridge#request-headers)
-	4. [Request Authentication](https://github.com/afollestad/bridge#request-authentication)
-	5. [Request Retries](https://github.com/afollestad/bridge#request-retries)
-	6. [Request Bodies](https://github.com/afollestad/bridge#request-bodies)
-		1. [Plain Bodies](https://github.com/afollestad/bridge#plain-bodies)
-		2. [Form Bodies](https://github.com/afollestad/bridge#plain-bodies)
-		3. [MultipartForm Bodies](https://github.com/afollestad/bridge#plain-bodies)
-	7. [Streaming Bodies](https://github.com/afollestad/bridge#plain-bodies)
-	8. [Info Callbacks](https://github.com/afollestad/bridge#info-callbacks)
-3. [Responses](https://github.com/afollestad/bridge#responses)
-	1. [Response Basics](https://github.com/afollestad/bridge#response-basics)
-	2. [Response Bodies](https://github.com/afollestad/bridge#response-bodies)
-4. [Error Handling](https://github.com/afollestad/bridge#error-handling)
-5. [Async](https://github.com/afollestad/bridge#async)
-	1. [Async Requests](https://github.com/afollestad/bridge#async-requests)
-	2. [Duplicate Avoidance](https://github.com/afollestad/bridge#duplicate-avoidance)
-	3. [Upload Progress](https://github.com/afollestad/bridge#upload-progress)
-	4. [Download Progress](https://github.com/afollestad/bridge#download-progress)
-6. [Request Cancellation](https://github.com/afollestad/bridge#request-cancellation)
-	1. [Cancelling Single Requests](https://github.com/afollestad/bridge#cancelling-single-requests)
-	2. [Cancelling Multiple Requests](https://github.com/afollestad/bridge#cancelling-multiple-requests)
-	3. [Preventing Cancellation](https://github.com/afollestad/bridge#preventing-cancellation)
-7. [Validation](https://github.com/afollestad/bridge#validation)
-8. [Configuration](https://github.com/afollestad/bridge#configuration)
-	1. [Host Configuration](https://github.com/afollestad/bridge#host-configuration)
-	2. [Default Headers](https://github.com/afollestad/bridge#default-headers)
-	3. [Timeout Configuration](https://github.com/afollestad/bridge#timeout-configuration)
-	4. [Buffer Size](https://github.com/afollestad/bridge#buffer-size)
-	5. [Logging](https://github.com/afollestad/bridge#logging)
-	6. [Redirects](https://github.com/afollestad/bridge#redirects)
-	7. [Global Validators](https://github.com/afollestad/bridge#global-validators)
-9. [Cleanup](https://github.com/afollestad/bridge#cleanup)
+1. [Dependency](https://github.com/Declarcall/bridge#dependency)
+	1. [Gradle (Java)](https://github.com/Declarcall/bridge#gradle-java)
+	2. [Gradle (Android)](https://github.com/Declarcall/bridge#gradle-android)
+	2. [Maven](https://github.com/Declarcall/bridge#maven)
+2. [Requests](https://github.com/Declarcall/bridge#requests)
+	1. [Request Basics](https://github.com/Declarcall/bridge#request-basics)
+	2. [Request Headers](https://github.com/Declarcall/bridge#request-headers)
+	4. [Request Authentication](https://github.com/Declarcall/bridge#request-authentication)
+	5. [Request Retries](https://github.com/Declarcall/bridge#request-retries)
+	6. [Request Bodies](https://github.com/Declarcall/bridge#request-bodies)
+		1. [Plain Bodies](https://github.com/Declarcall/bridge#plain-bodies)
+		2. [Form Bodies](https://github.com/Declarcall/bridge#plain-bodies)
+		3. [MultipartForm Bodies](https://github.com/Declarcall/bridge#plain-bodies)
+	7. [Streaming Bodies](https://github.com/Declarcall/bridge#plain-bodies)
+	8. [Info Callbacks](https://github.com/Declarcall/bridge#info-callbacks)
+3. [Responses](https://github.com/Declarcall/bridge#responses)
+	1. [Response Basics](https://github.com/Declarcall/bridge#response-basics)
+	2. [Response Bodies](https://github.com/Declarcall/bridge#response-bodies)
+4. [Error Handling](https://github.com/Declarcall/bridge#error-handling)
+5. [Async](https://github.com/Declarcall/bridge#async)
+	1. [Async Requests](https://github.com/Declarcall/bridge#async-requests)
+	2. [Duplicate Avoidance](https://github.com/Declarcall/bridge#duplicate-avoidance)
+	3. [Upload Progress](https://github.com/Declarcall/bridge#upload-progress)
+	4. [Download Progress](https://github.com/Declarcall/bridge#download-progress)
+6. [Request Cancellation](https://github.com/Declarcall/bridge#request-cancellation)
+	1. [Cancelling Single Requests](https://github.com/Declarcall/bridge#cancelling-single-requests)
+	2. [Cancelling Multiple Requests](https://github.com/Declarcall/bridge#cancelling-multiple-requests)
+	3. [Preventing Cancellation](https://github.com/Declarcall/bridge#preventing-cancellation)
+7. [Validation](https://github.com/Declarcall/bridge#validation)
+8. [Configuration](https://github.com/Declarcall/bridge#configuration)
+	1. [Host Configuration](https://github.com/Declarcall/bridge#host-configuration)
+	2. [Default Headers](https://github.com/Declarcall/bridge#default-headers)
+	3. [Timeout Configuration](https://github.com/Declarcall/bridge#timeout-configuration)
+	4. [Buffer Size](https://github.com/Declarcall/bridge#buffer-size)
+	5. [Logging](https://github.com/Declarcall/bridge#logging)
+	6. [Redirects](https://github.com/Declarcall/bridge#redirects)
+	7. [Global Validators](https://github.com/Declarcall/bridge#global-validators)
+9. [Cleanup](https://github.com/Declarcall/bridge#cleanup)
 
 ### Conversion
 
-1. [Conversion API](https://github.com/afollestad/bridge#conversion-api)
-	1. [Requests](https://github.com/afollestad/bridge#requests-1)
-	2. [Responses](https://github.com/afollestad/bridge#responses-1)
-	3. [Dot Notation](https://github.com/afollestad/bridge#dot-notation)
-	4. [Custom Converters](https://github.com/afollestad/bridge#custom-converters)
+1. [Conversion API](https://github.com/Declarcall/bridge#conversion-api)
+	1. [Requests](https://github.com/Declarcall/bridge#requests-1)
+	2. [Responses](https://github.com/Declarcall/bridge#responses-1)
+	3. [Dot Notation](https://github.com/Declarcall/bridge#dot-notation)
+	4. [Custom Converters](https://github.com/Declarcall/bridge#custom-converters)
 
 ---
 
@@ -152,7 +152,7 @@ Request request = Bridge
 If you had the need to do so, you could also set a Map of headers with
 the `headers(Map<String, Object>)` method.
 
-**Note**: the [Configuration](https://github.com/afollestad/bridge#configuration)
+**Note**: the [Configuration](https://github.com/Declarcall/bridge#configuration)
 goes over how you can set default headers for all requests.
 
 ### Request Authentication
@@ -237,7 +237,7 @@ In addition to passing a `String`, other types of "plain" bodies include:
 * JSONArray 
 
 There are other types of bodies discussed in the next few sections, along with 
-in the [Request Conversion](https://github.com/afollestad/bridge#request-conversion)
+in the [Request Conversion](https://github.com/Declarcall/bridge#request-conversion)
 section at the bottom (which is a bit more advanced).
 
 ##### Form Bodies
@@ -1029,7 +1029,7 @@ Bridge.destroy();
 Bridge's conversion feature allows you to use Java object instances/arrays/lists directly as a request bodies, 
 and convert response bodies directly to Java object instances/arrays/lists.
 
-Bridge comes with a built-in JSON converter, which is powered by one of my other libraries, [Ason](https://github.com/afollestad/ason).
+Bridge comes with a built-in JSON converter, which is powered by one of my other libraries, [Ason](https://github.com/Declarcall/ason).
 
 ### Requests
 
